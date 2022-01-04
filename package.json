@@ -1,0 +1,17 @@
+{
+  "name": "vite-mdx-2",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^2.0.0-rc.2",
+    "vite-plugin-mdx": "^3.5.10"
+  },
+  "type": "module"
+}
